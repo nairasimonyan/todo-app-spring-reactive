@@ -1,0 +1,10 @@
+com\github\nsimonyan\todolist\model\Event.class
+com\github\nsimonyan\todolist\repository\EventRepository.class
+com\github\nsimonyan\todolist\repository\TodoItemRepository.class
+com\github\nsimonyan\todolist\controller\TodoItemController.class
+com\github\nsimonyan\todolist\model\TodoItem.class
+com\github\nsimonyan\todolist\service\TodoListService.class
+com\github\nsimonyan\todolist\config\WebSocketConfiguration.class
+com\github\nsimonyan\todolist\socket\EventsStreamSocketHandler.class
+com\github\nsimonyan\todolist\config\WebConfig.class
+com\github\nsimonyan\todolist\TodoListApplication.class

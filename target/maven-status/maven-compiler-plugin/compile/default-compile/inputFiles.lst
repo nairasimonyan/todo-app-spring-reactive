@@ -1,0 +1,10 @@
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\model\TodoItem.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\config\WebConfig.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\service\TodoListService.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\repository\EventRepository.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\TodoListApplication.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\config\WebSocketConfiguration.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\model\Event.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\controller\TodoItemController.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\socket\EventsStreamSocketHandler.java
+D:\workspaces\inteliji\todolist-app-spring-reactive\src\main\java\com\github\nsimonyan\todolist\repository\TodoItemRepository.java

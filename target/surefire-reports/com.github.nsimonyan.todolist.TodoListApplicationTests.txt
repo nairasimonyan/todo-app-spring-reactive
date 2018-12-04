@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.github.nsimonyan.todolist.TodoListApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.657 s - in com.github.nsimonyan.todolist.TodoListApplicationTests
