@@ -7,7 +7,7 @@
 <body>
 <div class="events"></div>
     <script>
-        var clientWebSocket = new WebSocket("ws://localhost:8080/stream/events");
+        var clientWebSocket = new WebSocket("ws://localhost:9090/stream/events");
 
         clientWebSocket.addEventListener("error", function(error) {
             events("An error occurred");
