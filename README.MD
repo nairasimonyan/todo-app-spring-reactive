@@ -1,4 +1,4 @@
-# Todo list
+### Todo list
 
 Simple todo list where you can add item , delete , modify it , mark as done/not done
 All Create/Update/Delete actions also trigger events with descriptive explanations
